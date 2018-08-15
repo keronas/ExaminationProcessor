@@ -40,6 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exam.cs" />
+    <Compile Include="Examinee.cs" />
+    <Compile Include="ExamStreamReader.cs" />
+    <Compile Include="ExaminationProcessor.cs" />
+    <Compile Include="ExamXmlWriter.cs" />
+    <Compile Include="Group.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
